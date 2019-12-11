@@ -1,5 +1,5 @@
 # Aplikasi Perpustakaan WEB 3
-Iseng-iseng benerin aplikasi Perpustakaan yang ada di Modul Pemrograman Web 3, karena dibutuhkan pada pembelajaran E-Learning semester 5 untuk dikembangkan Resp APInya.
+Resp API yang dikerjakan, alias Tugas E-Learning Smester 5
 
 ## Tentang Saya 
 <p  align="center">
